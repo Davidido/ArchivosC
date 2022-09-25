@@ -16,4 +16,7 @@ int main() {
         printf ("El valor ingresado no es PAR");
     }
     return 0;
+
+    //ESTE CODIGO ESTA ERRADO, CORIJJELO PALO
+    //codigo malo...
 }
