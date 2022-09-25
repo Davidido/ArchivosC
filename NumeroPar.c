@@ -17,6 +17,5 @@ int main() {
     }
     return 0;
 
-    //ESTE CODIGO ESTA ERRADO, CORIJJELO PALO
-    //codigo malo...
+    //ESTE CODIGO ESTA ERRADO, CORIJJELO PALO -> Corregido ceuco!!!
 }
